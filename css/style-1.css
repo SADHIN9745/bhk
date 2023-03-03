@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-image: linear-gradient(to bottom, #512cb8, #00a0df);
+  }
+.img-fluid {
+    max-width: 202%;
+    height: auto;
+  }
+  .card-body{
+    width: 300px;
+    margin-left: 65px;
+  }
+  .card img{
+    padding: 30px;
+    
+  }
+  .main-body{
+    height: 700px;
+  }
